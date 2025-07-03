@@ -5,7 +5,7 @@ Achieved Total Level of 1600 in OSRS
 Considered "A pleasure to have in class" by a plurality of educators
 
 Languages:  
-Java, HTML, CSS
+React (JavaScript, HTML, CSS), Java
 
 Learning:  
 Python
